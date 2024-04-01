@@ -4,7 +4,7 @@ import plotly.graph_objs as go
 
 
 st.title("HOUSE PRICES DATA ANALYSIS")
-st.subheader('BY MUHAMMAD TAUSEEF')
+#st.subheader('BY MUHAMMAD TAUSEEF')
 st.markdown('---')
 
 # Load your dataset
